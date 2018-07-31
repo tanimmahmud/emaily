@@ -11,7 +11,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Tanim Mahmud",
   "license": "ISC",
   "dependencies": {
     "cookie-session": "^1.3.2",
